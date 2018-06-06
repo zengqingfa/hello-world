@@ -1,2 +1,3 @@
 # hello-world
- just a repository
+ I am a new hand.Please ignore this project.
+ Thank you!
